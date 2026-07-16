@@ -1,14 +1,17 @@
 {
-  "version": "1.1.0",
-  "versionCode": 4,
-  "apkUrl": "https://github.com/Vert-Jade/APK-Updates/releases/download/v1.1.0/APK-Updates-1.1.0-release.apk",
-  "sha256": "08805DBF3E405F23713B419BCE4DBF43156AB61D6AA6BE1F1BFDD25B5552B39F",
+  "version": "1.1.1",
+  "versionCode": 5,
+  "apkUrl": "https://github.com/Vert-Jade/APK-Updates/releases/download/v1.1.1/APK-Updates-1.1.1-release.apk",
+  "sha256": "2483B34322FC88306E95A8CB8E6A29D4BDBB0086AF9528E65E8B242CEF4D46E0",
   "notes": [
-    "Mise à jour complète des données pour Palworld 1.0.",
+    "Correctif de données et de libellés après la mise à jour Palworld 1.0.",
     "PalDex régénéré avec 299 entrées issues des sources actuelles.",
     "Objets, recettes, drops, compétences actives/passives et ressources recachés en local.",
+    "Derniers libellés anglais supprimés dans les objets visibles.",
+    "Récompenses de boss Dandilord et Silvance renommées correctement.",
+    "Reproduction clarifiée entre données source et calcul par rang.",
     "Carte PalDB resynchronisée avec 13 429 marqueurs et 68 catégories.",
     "Images et icônes offline régénérées pour limiter les dépendances externes.",
-    "Scrapers Palworld.gg, Palpedia et PalDB adaptés aux nouvelles structures des sites."
+    "APK rebuildée avec versionCode 5 pour déclencher la détection de mise à jour."
   ]
 }
