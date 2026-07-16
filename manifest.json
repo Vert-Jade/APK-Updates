@@ -1,17 +1,15 @@
 {
-  "version": "1.1.1",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/Vert-Jade/APK-Updates/releases/download/v1.1.1/APK-Updates-1.1.1-release.apk",
-  "sha256": "2483B34322FC88306E95A8CB8E6A29D4BDBB0086AF9528E65E8B242CEF4D46E0",
+  "version": "1.1.2",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/Vert-Jade/APK-Updates/releases/download/v1.1.2/APK-Updates-1.1.2-release.apk",
+  "sha256": "328D849EBFB6DA22A9C60BBDCBC08A1E5F74D456E5BBB6F94BF1502B1C7BE2EC",
   "notes": [
-    "Correctif de données et de libellés après la mise à jour Palworld 1.0.",
-    "PalDex régénéré avec 299 entrées issues des sources actuelles.",
-    "Objets, recettes, drops, compétences actives/passives et ressources recachés en local.",
-    "Derniers libellés anglais supprimés dans les objets visibles.",
-    "Récompenses de boss Dandilord et Silvance renommées correctement.",
-    "Reproduction clarifiée entre données source et calcul par rang.",
-    "Carte PalDB resynchronisée avec 13 429 marqueurs et 68 catégories.",
-    "Images et icônes offline régénérées pour limiter les dépendances externes.",
-    "APK rebuildée avec versionCode 5 pour déclencher la détection de mise à jour."
+    "Mise à jour Palworld 1.0 consolidée avec PalDB FR comme source carte et recettes.",
+    "Carte Palpagos et Arbre-Monde resynchronisée avec 13 942 marqueurs et 73 catégories.",
+    "Tours, boss, raids, prédateurs et spawns nocturnes recalculés depuis les données locales.",
+    "Recettes PalDB FR fusionnées avec 1 720 recettes détectées, dont munitions et ajouts récents.",
+    "PalDex régénéré avec 299 entrées, compétences, drops, reproduction et habitats disponibles localement.",
+    "Images et icônes recachées en local : 1 734 assets disponibles hors ligne.",
+    "APK rebuildée avec versionCode 6 pour déclencher la détection de mise à jour."
   ]
 }
