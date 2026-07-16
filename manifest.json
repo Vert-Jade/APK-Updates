@@ -1,14 +1,14 @@
 {
-  "version": "1.0.2",
-  "versionCode": 3,
-  "apkUrl": "https://github.com/Vert-Jade/APK-Updates/releases/download/v1.0.2/APK-Updates-1.0.2-release.apk",
-  "sha256": "00A55D3D7AF974BA0EE83E28BA10D24DC8A99E08DC07834EA4B25BC3C580D450",
+  "version": "1.1.0",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/Vert-Jade/APK-Updates/releases/download/v1.1.0/APK-Updates-1.1.0-release.apk",
+  "sha256": "08805DBF3E405F23713B419BCE4DBF43156AB61D6AA6BE1F1BFDD25B5552B39F",
   "notes": [
-    "APK public renommé APK-Updates pour rester aligné avec le dépôt de mise à jour.",
-    "Ajustement fin de l'espacement du badge Lv. des métiers.",
-    "Renommage du dépôt de mises à jour en APK-Updates pour garder le projet discret.",
-    "Correction du splash natif Android pour éviter le logo zoomé avant l'écran de chargement.",
-    "Ajout du bouton Voir sur la carte sur les fiches ressources avec points connus.",
-    "Resserrement visuel des métiers et suppression de l'icône de niveau."
+    "Mise à jour complète des données pour Palworld 1.0.",
+    "PalDex régénéré avec 299 entrées issues des sources actuelles.",
+    "Objets, recettes, drops, compétences actives/passives et ressources recachés en local.",
+    "Carte PalDB resynchronisée avec 13 429 marqueurs et 68 catégories.",
+    "Images et icônes offline régénérées pour limiter les dépendances externes.",
+    "Scrapers Palworld.gg, Palpedia et PalDB adaptés aux nouvelles structures des sites."
   ]
 }
